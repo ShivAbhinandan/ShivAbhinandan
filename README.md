@@ -11,18 +11,45 @@ All about me
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 
-Meet me, Satish Dhawale. I am a teacher, motivator, and entrepreneur based in Mumbai. I founded Skill Course, an online platform where people can learn about computers. I also run several YouTube channels, including "Learn More," which boasts over 2 million subscribers and millions of views.
+Meet me, Shiv Abhinandan. I am passionate about transforming raw data into meaningful insights that drive business decisions. I enjoy working with data cleaning, automation, visualization, and statistical analysis to solve real-world problems.
 
-<img align="right" alt="GIF" src="https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg" width="400" height="225" />
+<img align="right" alt="GIF" src="https://github.com/ShivAbhinandan/ShivAbhinandan/blob/e49a1937284c3a0065e4ceb4be61272d87acecab/ShivAbhinandan.png" width="400" height="225" />
   
+### 🛠️ Skills
+- 📊 Advanced Excel (Pivot Tables, Power Pivot, Formulas)
+- ⚡ Power Query (ETL & Data Transformation)
+- 📈 Power BI (Interactive Dashboards & DAX)
+- 🗄️ SQL (Data Extraction & Query Optimization)
+- 🤖 VBA (Excel Automation)
+- 🐍 Python (NumPy, Pandas, Matplotlib)
+- 📐 Statistics & Data Analysis
+- 📊 Interactive Dashboard Development
 
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working as content creator;
+### 🌱 Currently Learning
+- Advanced Data Analytics
+- Machine Learning with Python
+- Business Intelligence Best Practices
 - 🚀 I’m learning A.I Magics;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mr.abhinandanshiv@gmail.com
 
+## 📌 What You'll Find Here
+- Power BI Dashboard Projects
+- Excel Automation Solutions
+- SQL Queries & Database Projects
+- Python Data Analysis Notebooks
+- Business Intelligence Case Studies
+
+</br>
+
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
 </br>
 
@@ -32,11 +59,3 @@ Meet me, Satish Dhawale. I am a teacher, motivator, and entrepreneur based in Mu
 
 ```
 <!--END_SECTION:waka-->
-
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satishdhawale&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishdhawale&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
